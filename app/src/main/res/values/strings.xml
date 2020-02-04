@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">SimonApplication</string>
+    <string name="play_btn">Play</string>
+    <string name="points_msg">Points : 0</string>
+</resources>
